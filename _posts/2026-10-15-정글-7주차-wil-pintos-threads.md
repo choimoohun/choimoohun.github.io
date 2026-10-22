@@ -3,7 +3,7 @@ layout: post
 title: "[정글 7주차 WIL] Pintos - Threads"
 date: 2026-10-15 13:36 +0900
 categories: [일지, 크래프톤 정글]
-tags: [wil, week7, pintos, threads, debugging]
+tags: [wil, pintos, debugging]
 description: >-
   Pintos Threads 구현 중 겪은 리스트 사용 오류와
   선점 판단·인터럽트 복구 문제를 정리한 회고.
